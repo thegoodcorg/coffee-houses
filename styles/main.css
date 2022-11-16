@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+    padding-bottom: 45px;
+}
+
+article, section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 20%;
+    justify-content: space-evenly;
+    padding: 10px;
+    border: 1px, dotted, red;
+    
+}
+
+.shop {
+    border: 2px red dotted;
+}
